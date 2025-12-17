@@ -9,6 +9,16 @@ body{
     background-size:cover;
 }
 
+@font-face{
+    font-family: 'Felixti';
+    src: url(./font/Felixti.TTF);
+}
+
+h1{
+    font-family: 'Felixti';
+    font-weight: 300;
+}
+
 .blur{
     transition: all 300ms ease-out;
     -webkit-backdrop-filter: blur(400px);
