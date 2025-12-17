@@ -1,0 +1,201 @@
+body{
+    /* background-color: rgb(241, 241, 241)!important; */
+    /* background-color: rgb(33, 33, 33)!important; */
+    background-image: url(./backgrounds/Ratwah\ BG\ Catalogue.png);
+    /* background-image: url(./assets/Very\ Blue.jpg); */
+    /* background-image: url(./assets/unsplashBG.jpeg); */
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size:cover;
+}
+
+.blur{
+    transition: all 300ms ease-out;
+    -webkit-backdrop-filter: blur(400px);
+    backdrop-filter: blur(4px);
+}
+
+.bg{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fresh{
+    /* background-image: url(./backgrounds/fresh.jpg); */
+    /* background-image: url(./backgrounds/fresh2.jpg); */
+    background-image: url(./backgrounds/fresh3.jpg);
+}
+
+.sweet{
+    /* background-image: url(./backgrounds/sweet.jpg); */
+    /* background-image: url(./backgrounds/sweet2.jpg); */
+    /* background-image: url(./backgrounds/sweet3.jpg); */
+    /* background-image: url(./backgrounds/sweet4.jpg); */
+    /* background-image: url(./backgrounds/sweet5.jpg); */
+    background-image: url(./backgrounds/sweet6.jpg);
+}
+
+.malehomme{
+    /* background-image: url(./backgrounds/malehomme.jpg); */
+    background-image: url(./backgrounds/malehomme2.jpg);
+}
+
+.oriental{
+    /* background-image: url(./backgrounds/oriental.jpg); */
+    background-image: url(./backgrounds/oriental2.png);
+}
+
+.middleeast{
+    background-image: url(./backgrounds/middleeast.jpg);
+}
+
+.floral{
+    background-image: url(./backgrounds/floral.jpg);
+    /* background-size: contain; */
+}
+
+.bakhoor_incense{
+    background-image: url(./backgrounds/bakhoor\ incense.jpg);
+    /* background-size: contain; */
+}
+
+
+.para{
+    color: rgb(83, 83, 83);
+}
+
+/* .linkedin{
+    background-color: rgb(0,119,181)!important;
+    color: white!important;
+} */
+
+.info-box{
+    /* box-shadow: 0px 50px 70px rgb(233, 233, 233); */
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+}
+
+.profile-photo{
+    width:200px;
+    /* height: 200px; */
+    /* background-position: bottom; */
+    border-radius: 100%;
+    /* padding: 20px; */
+    margin-bottom: 20px;
+    /* box-shadow: 0px 50px 70px rgb(200,200,200); */
+    /* border: 1px solid rgb(23, 189, 23); */
+}
+
+.btn{
+    border-radius:12px!important;
+    /* min-width:120px; */
+}
+
+a{
+    all: unset !important;;
+}
+
+.cards{
+    /* background-color: rgba(183, 48, 48, 0.9); */
+    /* background-color: rgb(46, 46, 46); */
+    color: black;
+    /* color: rgb(255, 255, 255); */
+    /* color: rgb(240, 240, 240); */
+    font-size: medium;
+    border-radius: 20px;
+    /* padding: 20px 30px !important;  */
+   
+    /* new added from blog site */
+    transition: all 300ms ease-out;
+    -webkit-backdrop-filter: blur(400px);
+    backdrop-filter: blur(4px);
+
+}
+
+/* .cards:hover{
+    background-color: rgb(252, 252, 252);
+    color: rgb(25, 25, 25);
+    -webkit-backdrop-filter: blur(150px);
+    backdrop-filter: blur(150px);
+    transition-duration: 0.3s ;
+    transition: all 300ms ease-in;
+    transform: scale(1.02);
+  } */
+
+/* .projects .cards{
+    background-color: white;
+} */
+
+.projects .cards img{
+    max-height: 300px;
+}
+
+.child-box img{
+    width: 50px;
+    padding: 0 2px;
+}
+
+/* .child-box img:hover{
+    transition-duration: 0.3s ;
+    transition: all 300ms ease-in ease-out;
+    transform: scale(1.1);
+} */
+
+.btn{
+    margin:0 3px !important;
+    /* padding:10px 20px !important; */
+}
+
+.btn:hover{
+    border: 1px solid black!important;
+}
+
+.sibling-box{
+    /* background-color: rgb(255, 255, 255); */
+    padding: 20px;
+    margin:0 20px;
+    border-radius: 20px;
+}
+
+.carousel-item img{
+    border-radius: 10px;
+    /* max-width: 320px; */
+}
+/* 
+.carousel-inner{
+    border-radius:30px;
+} */
+
+.arrow-left{
+    background-color: rgb(35, 35, 35)!important;
+    border:3px solid rgb(35,35,35);
+    border-radius:100%;
+    position: relative;
+    /* bottom: 10%; */
+    bottom: -50%;
+    right:50%;
+}
+
+.arrow-right{
+    background-color: rgb(35, 35, 35)!important;
+    border:3px solid rgb(35,35,35);
+    border-radius:100%;
+    position: relative;
+    /* bottom: 10%; */
+    bottom: -50%;
+    left:50%;
+}
+
+.footer{
+    /* background-image: url(./assets/bg.jpg);
+    background-position: center; */
+    height: 50px!important; 
+    /* background-color: rgb(241, 241, 241); */
+}
+
+.footer-hr{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    height: 5px!important;
+}
