@@ -2,7 +2,7 @@ body{
     /* background-color: rgb(241, 241, 241)!important; */
     /* background-color: rgb(33, 33, 33)!important; */
     background-image: url(./backgrounds/Ratwah\ BG\ Catalogue.png);
-    /* background-image: url(./assets/Very\ Blue.jpg); */
+    /* background-image: url(./assets/Very\ Blue.webp); */
     /* background-image: url(./assets/unsplashBG.jpeg); */
     background-repeat: no-repeat;
     background-position: bottom;
@@ -21,31 +21,31 @@ body{
 }
 .fresh{
     /* background-image: url(./backgrounds/fresh.jpg); */
-    /* background-image: url(./backgrounds/fresh2.jpg); */
-    background-image: url(./backgrounds/fresh3.jpg);
+    /* background-image: url(./backgrounds/fresh2.webp); */
+    background-image: url(./backgrounds/fresh3.webp);
 }
 
 .sweet{
-    /* background-image: url(./backgrounds/sweet.jpg); */
-    /* background-image: url(./backgrounds/sweet2.jpg); */
-    /* background-image: url(./backgrounds/sweet3.jpg); */
-    /* background-image: url(./backgrounds/sweet4.jpg); */
-    /* background-image: url(./backgrounds/sweet5.jpg); */
-    background-image: url(./backgrounds/sweet6.jpg);
+    /* background-image: url(./backgrounds/sweet.webp); */
+    /* background-image: url(./backgrounds/sweet2.webp); */
+    /* background-image: url(./backgrounds/sweet3.webp); */
+    /* background-image: url(./backgrounds/sweet4.webp); */
+    /* background-image: url(./backgrounds/sweet5.webp); */
+    background-image: url(./backgrounds/sweet6.webp);
 }
 
 .malehomme{
-    /* background-image: url(./backgrounds/malehomme.jpg); */
-    background-image: url(./backgrounds/malehomme2.jpg);
+    /* background-image: url(./backgrounds/malehomme.webp); */
+    background-image: url(./backgrounds/malehomme2.webp);
 }
 
 .oriental{
-    /* background-image: url(./backgrounds/oriental.jpg); */
-    background-image: url(./backgrounds/oriental2.png);
+    /* background-image: url(./backgrounds/oriental.webp); */
+    background-image: url(./backgrounds/oriental2.webp);
 }
 
 .middleeast{
-    background-image: url(./backgrounds/middleeast.jpg);
+    background-image: url(./backgrounds/middleeast.webp);
 }
 
 .floral{
@@ -186,7 +186,7 @@ a{
 }
 
 .footer{
-    /* background-image: url(./assets/bg.jpg);
+    /* background-image: url(./assets/bg.webp);
     background-position: center; */
     height: 50px!important; 
     /* background-color: rgb(241, 241, 241); */
